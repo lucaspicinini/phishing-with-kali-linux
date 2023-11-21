@@ -8,6 +8,7 @@ Abra seu terminal como root e execute o seguinte comando:
 $ setoolkit
 ```
 Selecione a primeira opção na tela que será exibida, "Social-Engineering Attacks".
+
 ![imagem 1](images/1.png "imagem")
 
 ## Passo 2:
@@ -43,3 +44,9 @@ O pŕoprio setoolkit já sugere o ip do host no momento da seleção da ferramen
 Agora, ao inserirmos o IP na barra de endereços do navegador será exibida uma versão falsa da página clonada. Depois de preecher o formulário e submeter, a pessoa será redirecionada ao site original e poderemos ter acesso aos dados inseridos no formulário.    
 
 ![imagem 6](images/6.png "imagem")
+
+## Resultado:
+
+No terminal, na janela do setoolkit, serão exibidos os valores inseridos pela pessoa no formulário. Use a ferramenta com sabedoria!    
+
+![imagem 7](images/7.png "imagem")
